@@ -75,4 +75,4 @@ Este es la estructura básica de una página simple que soporte HTML5. (Aunque l
 /* styles.css */
 /* Nada por aquí aun */
 ```
-<a href='01-mi-primera-pagina'>Descargar estos archivos</a>.
+<a href='archivos/01-mi-primera-pagina'>Descargar estos archivos</a>.
