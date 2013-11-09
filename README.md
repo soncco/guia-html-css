@@ -29,7 +29,7 @@ Las etiquetas HTML pueden tener cualquiera de las siguentes formas:
 <etiqueta atributo>
 ```
 
-Y la sintaxis CSS puede tener cualquiera de las siguientes formas:
+Y la sintaxis CSS puede tener básicamente cualquiera de las siguientes formas (y otras más que trataremos más adelante):
 
 ```css
 etiqueta {
@@ -47,5 +47,7 @@ etiqueta {
   propiedad: valor:
 }
 ```
+
+La regla <code>.clase</code> afecta a todas las etiquetas que tengan ```<etiqueta class="clase"></etiqueta>``` mientras que la regla <code>#identificador</code> afecta a la etiqueta identificada con ```<etiqueta id="identificador"></etiqueta>```
 
 **[[ Volver al índice ]](#INDEX)**
