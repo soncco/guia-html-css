@@ -46,5 +46,6 @@ etiqueta {
 #identificador {
   propiedad: valor:
 }
+```
 
 **[[ Volver al índice ]](#INDEX)**
