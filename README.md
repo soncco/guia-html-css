@@ -6,6 +6,7 @@
 
   1. [Introducción](#introduccion)
   2. [Lo básico](#lo-basico)
+  3. [Mi primera página](#mi-primera)
 
 ## <a name='introduccion'>Introducción</a>
 
@@ -49,3 +50,29 @@ etiqueta {
 La regla <code>.clase</code> afecta a todas las etiquetas que tengan ```<etiqueta class="clase"></etiqueta>``` mientras que la regla <code>#identificador</code> afecta a la etiqueta identificada con ```<etiqueta id="identificador"></etiqueta>```
 
 **[[ Volver al índice ]](#INDEX)**
+
+## <a name='mi-primera'>Mi primera página</a>
+
+Este es la estructura básica de una página simple que soporte HTML5. (Aunque la guía es en español, usaremos nombres en inglés para los archivos).
+
+```html
+<!-- index.html -->
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <title>Mi primera página</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1>Mi primera página web</h1>
+    <p>Me gusta escribir HTML</p>
+  </body>
+</html>
+```
+
+```css
+/* styles.css */
+/* Nada por aquí aun */
+```
+<a href='01-mi-primera-pagina'>Descargar estos archivos</a>.
