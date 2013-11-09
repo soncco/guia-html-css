@@ -35,10 +35,8 @@ Y la sintaxis CSS puede tener básicamente cualquiera de las siguientes formas (
 etiqueta {
   propiedad1: valor;
   propiedad2: valor;
-  /* Este es un comentario que explica que podemos agregar muchas propiedades más */
 }
 
-/* Los comentarios también funcionan aca */
 .clase {
   propiedad: valor;
 }
